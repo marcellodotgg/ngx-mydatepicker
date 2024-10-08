@@ -33,7 +33,7 @@ Online demo is [here](http://kekeh.github.io/angular-mydatepicker)
 > [!IMPORTANT]
 > To upgrade to the next version run this command after installing the cli version globally:
 >
-> - `ng update @angular/core@17 @angular/cli@17` --force
+> - `ng update @angular/core@17 @angular/cli@17 --force`
 
 To publish just simply run `npm run publish-to-npm`
 
