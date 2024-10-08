@@ -1,6 +1,6 @@
 {
   "name": "@marcellodotgg/ngx-mydatepicker",
-  "version": "15.0.0",
+  "version": "16.12.2",
   "description": "Angular datepicker and date range picker",
   "homepage": "https://github.com/marcellodotgg/ngx-mydatepicker",
   "private": false,
